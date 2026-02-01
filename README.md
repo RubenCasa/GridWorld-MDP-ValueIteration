@@ -1,4 +1,3 @@
-# GridWorld-MDP-ValueIteration
 
 #  GridWorld MDP - Value Iteration
 
